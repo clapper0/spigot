@@ -1,2 +1,4 @@
-```👻``` **Hej**, jestem ``klakier``\n
+```👻``` **Hej**, jestem ``klakier``
+
+
 ```⚔️``` Tutaj znajdziesz moje ``publiczne`` **pluginy**...
